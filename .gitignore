@@ -1,0 +1,12 @@
+# CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
+CMakeDoxyfile.in
+CMakeDoxygenDefaults.cmake
+Makefile
+
+# Executables
+test
+
+# VS Code Files
+.vscode
